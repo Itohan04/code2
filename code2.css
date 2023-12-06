@@ -1,0 +1,16 @@
+body{
+    background-color: aquamarine;
+    font-size: larger;
+    font-style: italic;
+    color: tomato;
+}
+#dol{
+    font-size: 30px;
+    color: blue;
+    font-weight: bolder
+}
+.par{
+    border: 15px;
+    border-radius: 15px;
+    border-color: brown;
+}
